@@ -81,6 +81,7 @@ const char *Algorithm::kRX_WOW          = "rx/wow";
 const char *Algorithm::kRX_ARQ          = "rx/arq";
 const char *Algorithm::kRX_SFX          = "rx/sfx";
 const char *Algorithm::kRX_KEVA         = "rx/keva";
+const char *Algorithm::kRX_GRAFT        = "rx/graft";
 #endif
 
 #ifdef XMRIG_ALGO_ARGON2

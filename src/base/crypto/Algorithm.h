@@ -137,6 +137,7 @@ public:
     static const char *kRX_ARQ;
     static const char *kRX_SFX;
     static const char *kRX_KEVA;
+    static const char *kRX_GRAFT;
 #   endif
 
 #   ifdef XMRIG_ALGO_ARGON2
